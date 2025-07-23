@@ -1,5 +1,5 @@
 # LinguaFlow
-A language-learning app, free and easy to use.
+A choice-centred language-learning app, free and easy to use.
 
 
 Feature set:
